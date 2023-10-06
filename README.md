@@ -1,8 +1,4 @@
-# wildlife_webpage project
-
-Report 
  
-
 Aim 
 
 The aim of this project is to create a website dedicated to educating the public about various forms of wildlife, with a specific focus on dolphins, polar bears, and penguins. The website will provide information about the habitat, behaviour, and conservation status of these animals, as well as ways in which people can get involved in protecting them. The site will include a variety of multimedia elements such as images, and videos to make the content more engaging and accessible to a wide audience. The website will also include a section for current news and updates on wildlife conservation efforts. 
